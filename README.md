@@ -21,12 +21,6 @@ A simple CRUD (Create, Read, Update, Delete) application for managing data effic
 
 ## Project Structure
 
-### Files:
-- `index.html`: The main structure of the app.
-- `styles.css`: Defines layout and design.
-- `script.js`: Implements CRUD operations.
-
----
 
 ## Installation and Usage
 
